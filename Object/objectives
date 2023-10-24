@@ -1,0 +1,25 @@
+Create an object called person with the following properties: name (your name), age (your age), and city (your city).
+
+Use console.log to print the person object to the console.
+
+Add a new property to the person object called email with your email address.
+
+Use the delete operator to remove the city property from the person object.
+
+Check if the person object has a property called email using the hasOwnProperty method. Print "The person object has an email property" if it does and "The person object does not have an email property" if it doesn't.
+
+Create a function called printPersonInfo that takes the person object as an argument and prints a message like "John is 30 years old and lives in New York." where "John" is the name from the person object, "30" is the age, and "New York" is the city. Ensure the function works with or without the city property.
+
+Create an array of objects called people with at least three different people, each with properties like name, age, and email.
+
+Use a loop (e.g., for or forEach) to iterate through the people array and call the printPersonInfo function for each person.
+
+Create a new object called car with properties like make, model, and year. Initialize these properties with values for your favorite car.
+
+Use a for...in loop to iterate through the car object and print each property and its value to the console.
+
+Create a copy of the car object called copiedCar using the spread operator ({...}).
+
+Modify the copiedCar object by changing the make to your second favorite car's make.
+
+Print the original car object and the copiedCar object to the console to see if the original object was modified.
