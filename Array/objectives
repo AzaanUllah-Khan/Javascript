@@ -1,0 +1,29 @@
+Create an array called fruits containing the following fruits: "apple," "banana," "cherry," "date," "elderberry," and "fig."
+
+Use the console.log method to print the entire fruits array to the console.
+
+Add "grape" to the end of the fruits array using the push method.
+
+Remove the last item from the fruits array using the pop method.
+
+Insert "lemon" at the beginning of the fruits array using the unshift method.
+
+Remove the first item from the fruits array using the shift method.
+
+Find and print the index of "cherry" in the fruits array using the indexOf method.
+
+Check if "kiwi" is in the fruits array using the includes method. Print "Kiwi is in the array" if it is and "Kiwi is not in the array" if it's not.
+
+Create a new array called moreFruits containing the following fruits: "grape," "kiwi," "lemon," "lime."
+
+Use the concat method to merge the fruits and moreFruits arrays into a single array called allFruits.
+
+Use the slice method to create a new array called selectedFruits that contains only the fruits from index 1 to 3 of the allFruits array.
+
+Use the join method to create a string called fruitsString that contains all the fruits from the selectedFruits array separated by commas.
+
+Sort the allFruits array in alphabetical order using the sort method and print the sorted array.
+
+Reverse the allFruits array using the reverse method and print the reversed array.
+
+Calculate and print the total number of fruits in the allFruits array using the length property.
